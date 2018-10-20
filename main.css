@@ -1212,6 +1212,10 @@ footer ul li {
       display: block;
       margin-bottom: 60px;
     }
+
+    .header, .about, #Skills, .kontakt {
+      background-attachment: scroll;
+    }
   }
 
   @media only screen and (max-width : 768px) {

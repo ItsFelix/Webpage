@@ -1155,7 +1155,7 @@ footer ul li {
 /-Media Queries-/
 /-------------------------------------------------------------*/
 
-  @media(max-width: 1007px) {
+  @media(max-width: 1400px) {
 
     nav ul li a.active {
       padding: 15px 40%;
